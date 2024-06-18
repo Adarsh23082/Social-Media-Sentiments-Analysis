@@ -8,6 +8,7 @@ This project analyzes social media sentiment data to understand engagement patte
 - [SQL](https://github.com/Adarsh23082/Social-Media-Sentiments-Analysis/blob/main/Sentiment%20Analysis%20Query.sql)
 
 ## Dataset Description
+- [Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
 The dataset includes social media posts with attributes relevant to sentiment analysis and user engagement:
 
 - **Post ID**: Unique identifier for each post.
